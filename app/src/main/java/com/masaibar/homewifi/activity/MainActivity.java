@@ -14,6 +14,8 @@ import com.masaibar.homewifi.R;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
+    public final static float FENCE_RADIUS_METERS = 50.0f; //Geofence半径 50メートル
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -27,7 +27,7 @@ public class App extends Application {
     synchronized public Tracker getDefaultTracker() {
         if (mTracker == null) {
             GoogleAnalytics analytics = GoogleAnalytics.getInstance(getApplicationContext());
-//            mTracker = analytics.newTracker(R.xml.global_tracker);
+            mTracker = analytics.newTracker(R.xml.global_tracker);
         }
         return mTracker;
     }

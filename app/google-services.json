@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "765762098672",
+    "project_id": "homewifi-a0cf9"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765762098672:android:c3a6df7151bce99d",
+        "android_client_info": {
+          "package_name": "com.masaibar.homewifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr81WWaTw88Gd9TbkGw7Zu2OG-CHdPXZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75617717-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
